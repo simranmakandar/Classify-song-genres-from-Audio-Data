@@ -1,0 +1,2 @@
+# Classify-song-genres-from-Audio-Data
+Used a dataset comprised of songs of 2 music genres (HipHop and Rock). Trained a classifier to distinguish between the 2 genres based only on track information derived from Echonest.  Used Scikit-learn to predict a song’s genre based on different features such as danceability, energy, acousticness, tempo etc. Algorithms used are PCA, Logistic regression and Decision Trees.
